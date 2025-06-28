@@ -66,3 +66,4 @@ git clone https://github.com/ryenyuku/twrp_infx692_buildscripts.git
 cd twrp_infx692_buildscripts
 build/build.sh
 ```
+
